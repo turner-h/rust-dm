@@ -1,5 +1,5 @@
 [package]
-name = rust-dm"
+name = "rust-dm"
 version = "0.1.0"
 edition = "2018"
 
